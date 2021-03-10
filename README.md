@@ -13,7 +13,7 @@
 <div align="center">
    <img width="500" alt="emacs" src="https://user-images.githubusercontent.com/14329786/110590156-5f6be380-81b2-11eb-88b8-4d2e584e8e1a.png">
    <img width="200" alt="orgor" src="https://user-images.githubusercontent.com/14329786/110590148-5da22000-81b2-11eb-8a19-f0fa1e7c00a8.png">
-<div>
+</div>
 
 
 ## LICENSE
