@@ -1,5 +1,5 @@
 # 读书笔记
-本人使用 [Emacs](https://www.gnu.org/software/emacs/) 进行编辑和阅读，配置为 [Teem Emacs](https://github.com/willbchang/teem-emacs)。
+使用 [Emacs](https://www.gnu.org/software/emacs/) 的 [Org Mode](https://orgmode.org/) 进行编辑和阅读，配置为 [Teem Emacs](https://github.com/willbchang/teem-emacs)。
 
 | 心理学                                  |
 |-----------------------------------------|
