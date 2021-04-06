@@ -810,3 +810,37 @@ CLOCK: [2021-04-04 Sun 14:18]--[2021-04-04 Sun 14:48] =>  0:30
 *信号：* 在语言发展早期，父母和孩子间非言语互动的任何触摸、声音、注视或微笑。
 *** Parentese
 *父母用语：* 其特点是声调高、句子简短、重复、语速慢和夸张。
+** 儿童的思维能力是如何获得的？
+:LOGBOOK:
+CLOCK: [2021-04-06 Tue 21:18]--[2021-04-06 Tue 21:45] =>  0:27
+CLOCK: [2021-04-06 Tue 10:04]--[2021-04-06 Tue 10:49] =>  0:45
+CLOCK: [2021-04-04 Sun 16:12]--[2021-04-04 Sun 16:27] =>  0:15
+:END:
+心智是在[[*Assimilation][同化]]、[[*Accommodation][顺应]]、学习环境和社会文化的共同影响下️发展的。经历[[*Sensorimotor][感觉运动阶段]]、[[*Preoperational][前运算阶段]]、[[*Concrete Operational Stage][具体运算阶段]]和[[*FOrmal Operational Stage][形式运算阶段]]。
+
+*** Assimilation
+*同化：* 皮亚杰理论中的概念，指将现有的心理模式运用于新的环境。
+*** Accommodation
+*顺应：* 修正已有的观念使之符合新的需求。
+*** Sensorimotor
+*感觉运动阶段（0 - 2岁）：* 学习协调感觉获得的信息和有目的的运动，有一定的记忆和思维能力。获得[[*Object Permanence][客体恒常性]]的概念。
+**** Object Permanence
+*客体恒常性：* 物体在看不见时依然存在。
+*** Preoperational Stage
+*前运算阶段（2 - 7岁）：* 开始运用语言和符号思维，发展[[*Theory of Mind][心理理论]]，但无法进行[[*Transformation][心理转换]]，仍有[[*Intuitive Thought][直觉思维]]。
+**** Theory of Mind
+*心理理论：* 理解人拥有心理状态，如思想、信念和意图，并且他人的心理状态与我们自己的不同。
+**** Transformation
+*心理转换：* 知道一个物体形状改变但体积不变的心理能力。
+**** Intuitive Thought
+*直觉思维：* 很少或不使用推理和逻辑的思维。
+**** Egocentric Thought
+*自我中心思维：* 以自我为中心的思维，不能正确考虑到他人的立场。
+*** Concrete Operational Stage
+*具体运算阶段（7 - 11岁）：* 简单、具体地使用时间、空间、体积和数字的概念。 
+*** Formal Operational Stage
+*形式运算阶段（11岁以后）：* 运用抽象的、理论的和假设观点的思维。
+*** Zone of Proximal Development
+*最近发展区：* 儿童不能独立完成，但在能力更强的伙伴的帮助下可以完成的任务范围。
+*** Scaffolding
+*脚手架：* 调整指导的过程，它可以适应初学者的行为，帮助初学者理解一个问题或学会一项心理学技能。
