@@ -816,7 +816,7 @@ CLOCK: [2021-04-06 Tue 21:18]--[2021-04-06 Tue 21:45] =>  0:27
 CLOCK: [2021-04-06 Tue 10:04]--[2021-04-06 Tue 10:49] =>  0:45
 CLOCK: [2021-04-04 Sun 16:12]--[2021-04-04 Sun 16:27] =>  0:15
 :END:
-心智是在[[*Assimilation][同化]]、[[*Accommodation][顺应]]、学习环境和社会文化的共同影响下️发展的。经历[[*Sensorimotor][感觉运动阶段]]、[[*Preoperational][前运算阶段]]、[[*Concrete Operational Stage][具体运算阶段]]和[[*FOrmal Operational Stage][形式运算阶段]]。
+心智是在[[*Assimilation][同化]]、[[*Accommodation][顺应]]、学习环境和社会文化的共同影响下发展的。经历[[*Sensorimotor][感觉运动阶段]]、[[*Preoperational][前运算阶段]]、[[*Concrete Operational Stage][具体运算阶段]]和[[*FOrmal Operational Stage][形式运算阶段]]。
 
 *** Assimilation
 *同化：* 皮亚杰理论中的概念，指将现有的心理模式运用于新的环境。
@@ -844,3 +844,19 @@ CLOCK: [2021-04-04 Sun 16:12]--[2021-04-04 Sun 16:27] =>  0:15
 *最近发展区：* 儿童不能独立完成，但在能力更强的伙伴的帮助下可以完成的任务范围。
 *** Scaffolding
 *脚手架：* 调整指导的过程，它可以适应初学者的行为，帮助初学者理解一个问题或学会一项心理学技能。
+** 为什么青少年期向成年期的过渡具有挑战性？
+:LOGBOOK:
+CLOCK: [2021-04-07 Wed 11:02]--[2021-04-07 Wed 11:21] =>  0:19
+:END:
+[[*Adolescence][青少年期]]有关个人认同、道德价值观的发展，达到成人标准具有一定的难度，一般会有[[*Emerging Adulthood][成年初显期]]。
+
+*** Adolescence
+*青少年期:* 儿童期和成年期的过渡阶段，主要是心理上的发展。
+*** Puberty
+*青春期：* 生理上的变化状态，激素的变化加速了身体的生长和性成熟。
+*** 成人的标准
+1. 能为自己负责
+2. 独立做决定
+3. 经济独立
+*** Emerging Adulthood
+*成人初显期：* 青少年期的延伸期。
