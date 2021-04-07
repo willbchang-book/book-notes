@@ -860,3 +860,16 @@ CLOCK: [2021-04-07 Wed 11:02]--[2021-04-07 Wed 11:21] =>  0:19
 3. 经济独立
 *** Emerging Adulthood
 *成人初显期：* 青少年期的延伸期。
+** 人们的道德观和价值观是如何发展的？
+:LOGBOOK:
+CLOCK: [2021-04-07 Wed 13:40]--[2021-04-07 Wed 14:05] =>  0:25
+:END:
+人的[[*Moral Development][道德发展]]是通过思维和推理习得的。分为[[*Preconventional Moral Reasoning][前习俗水平]]、[[*Conventional Moral Reasoning][习俗水平]]、[[*Postconventional Moral Reasoning][后习俗水平]]。公正和关爱都是道德中的重要部分。
+*** Moral Development
+*道德发展：* 随着价值观、信仰和思维能力发展所发生的人的道德判断标准的变化。
+*** Preconventional Moral Reasoning
+*前习俗水平：* 根据自身利益和行为后果（如惩罚、奖励或互惠）做出道德判断。
+*** Conventional Moral Reasoning
+*习俗水平：* 根据他人期望、规则和一般行为标准做出道德判断。
+*** Postconventional Moral Reasoning
+*后习俗水平：* 认真检验事实和自主选择道德原则的基础上做出自己的道德判断。
