@@ -888,7 +888,7 @@ CLOCK: [2021-04-07 Wed 14:34]--[2021-04-07 Wed 15:03] =>  0:29
 | 6 ～ 12 岁              | [[*Industry versus Inferiority][勤奋对自卑]]         |
 | 青少年期（12 ～ 19 岁） | [[*Identity versus Role Confusion][角色认同对角色混乱]] |
 | 成年早期（20 ～ 24 岁） | [[*Intimacy versus Isolation][亲近感对孤立感]]     |
-| 成年中期（35 ～ 64 岁） | [[*Generativity versus Stagnation][普遍关注对自我专注]] |
+| 成年中期（35 ～ 64 岁） | [[*Generativity versus Stagnation][普遍关注对自我关注]] |
 | 成年后期（65 岁以后）   | [[*Integrity versus Despair][圆满感对绝望感]] |
 
 *** Trust versus Mistrust
@@ -939,3 +939,13 @@ CLOCK: [2021-04-08 Thu 08:37]--[2021-04-08 Thu 09:00] =>  0:23
 
 *** Ageism
 *年龄偏见：* 由于对方年龄而对其产生的歧视和偏见。
+** 人们面对死亡时一般会有怎样的反应？
+:LOGBOOK:
+CLOCK: [2021-04-08 Thu 10:13]
+:END:
+一般来说会经历五个阶段：
+1. 否认和不接受
+2. 愤怒
+3. 讨价还价
+4. 抑郁
+5. 接受死亡
