@@ -1222,7 +1222,16 @@ CLOCK: [2021-04-14 Wed 19:51]--[2021-04-14 Wed 19:53] =>  0:02
 :END:
 **** Size Constancy
 *大小恒常性：* 客观物体投射在视网膜上的像的大小改变时，人对客观大小的知觉保持不变。
-**** Shape Constancty
+**** Shape Constancy
 *形状恒常性：* 对物体形状的知觉不受视网膜像形状改变的影响。
-**** Brightness Constancty
+**** Brightness Constancy
 *亮度恒常性：* 在光照条件改变时，知觉到的物体亮度保持不变。
+** 为什么我们对某些感觉更为敏感？
+:LOGBOOK:
+CLOCK: [2021-04-14 Wed 20:41]--[2021-04-14 Wed 20:52] =>  0:11
+:END:
+强烈的、重复的、对比或变化明显的刺激会更敏感。
+*** Selective Attension
+*选择性注意：* 有显著一特定的感觉输入。
+*** Inattentional Blindness
+*非注意盲视：* 由于并非出于注意中心而不能清晰地知觉感觉刺激的现象。
