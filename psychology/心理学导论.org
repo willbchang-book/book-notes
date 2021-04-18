@@ -1444,3 +1444,26 @@ CLOCK: [2021-04-18 Sun 14:04]--[2021-04-18 Sun 14:16] =>  0:12
 *经典条件反射：* 新刺激与反射行为形成联结。
 **** Operant Conditioning
 *操作性条件反射：* 学习是建立在反映结果的基础上的。
+** Classical Conditioning 是怎样形成的？
+:LOGBOOK:
+CLOCK: [2021-04-18 Sun 14:20]--[2021-04-18 Sun 14:49] =>  0:29
+:END:
+在 Unconditioned Stimulus 引起 Unconditioned Response 的关系中加入 Neutral Stimulus，使得它变为 Conditioned Stimulus 从而产生 Conditioned Response。这一过程被称为 Respondent Reinforcement，结果被称为 Acquisition。
+
+个体一旦习得某种 Conditioning 后，还可以进一步引起 Higher Order Conditioning。
+*** Unconditioned Stimulus
+*无条件刺激：* 自身具备引发某种反应的能力的刺激。
+*** Unconditioned Response
+*无条件反射：* 有无条件刺激引发的天生的反射行为。
+*** Neutral Stimulus
+*中性刺激：* 不能激发反应的刺激。
+*** Conditioned Stimulus
+*条件刺激：* 与无条件刺激重复配对出现而能够引发某种反应的刺激。
+*** Conditioned Response
+*条件反射：* 由条件刺激激发的习得性的反应。
+*** Acquisition
+*习得：* 条件反射形成的过程，在这个过程中某种反应被强化。
+*** Respondent Reinforcement
+*反应性强化：* 这种强化出现在一个无条件刺激紧随一个条件刺激出现时。
+*** Higher Order Conditioning
+*高级条件反射：* 在经典条件反射中，把一个被习得的条件刺激当作无条件刺激那样用于进一步的强化学习。
