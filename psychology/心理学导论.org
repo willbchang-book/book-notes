@@ -1457,6 +1457,7 @@ CLOCK: [2021-04-18 Sun 14:20]--[2021-04-18 Sun 14:49] =>  0:29
 
 Extinction 需要经过许多次才能完成，这期间会发生 Spontaneous Recovery。
 
+我们不仅可能通过自身经验习得 Conditioning，并且也可以通过 Vicarious Classical Conditioning 获得。
 *** Unconditioned Stimulus
 *无条件刺激：* 自身具备引发某种反应的能力的刺激。
 *** Unconditioned Response
@@ -1481,4 +1482,18 @@ Extinction 需要经过许多次才能完成，这期间会发生 Spontaneous Re
 *刺激泛化：* 对与条件刺激类似的刺激产生反应的倾向。
 *** Stimulus Discrimination
 *刺激辨别：* 对不同刺激产生不同反应的能力。
+*** Vicarious Classical Conditioning
+*间接性经典条件反射：* 通过观察他人对特定刺激做出的反应而产生的经典条件反射。
+** Conditioning 影响情绪吗？
+:LOGBOOK:
+CLOCK: [2021-04-18 Sun 18:44]--[2021-04-18 Sun 18:53] =>  0:09
+CLOCK: [2021-04-18 Sun 16:16]--[2021-04-18 Sun 16:20] =>  0:04
+CLOCK: [2021-04-18 Sun 16:03]--[2021-04-18 Sun 16:10] =>  0:07
+:END:
+通过 Classical Conditioning，许多无意的、自主神经系统反应都能和新的刺激或情境结合在一起。
 
+人许多的喜怒哀乐都是通过 Conditioned Emotional Response 习得的。
+*** Conditioned Emotional Response
+*条件情绪反应：* 通过经典条件反射，与先前的非情绪性刺激建立联系的情绪性反应。
+*** Desensitization
+*脱敏疗法：* 通过让个体在尽力保持放松的同时逐渐接近情绪性刺激，以降低恐惧或焦虑。
