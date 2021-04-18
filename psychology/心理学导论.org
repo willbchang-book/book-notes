@@ -1446,11 +1446,17 @@ CLOCK: [2021-04-18 Sun 14:04]--[2021-04-18 Sun 14:16] =>  0:12
 *操作性条件反射：* 学习是建立在反映结果的基础上的。
 ** Classical Conditioning 是怎样形成的？
 :LOGBOOK:
+CLOCK: [2021-04-18 Sun 15:05]--[2021-04-18 Sun 15:33] =>  0:28
 CLOCK: [2021-04-18 Sun 14:20]--[2021-04-18 Sun 14:49] =>  0:29
 :END:
-在 Unconditioned Stimulus 引起 Unconditioned Response 的关系中加入 Neutral Stimulus，使得它变为 Conditioned Stimulus 从而产生 Conditioned Response。这一过程被称为 Respondent Reinforcement，结果被称为 Acquisition。
+在 Unconditioned Stimulus 引起 Unconditioned Response 的关系中前置 Neutral Stimulus，经过多次重复后使它变为 Conditioned Stimulus 从而产生 Conditioned Response。这一过程被称为 Respondent Reinforcement，结果被称为 Acquisition，通常伴随着 Stimulus Generalization 与 Stimulus Discrimination。
 
-个体一旦习得某种 Conditioning 后，还可以进一步引起 Higher Order Conditioning。
+个体一旦习得某种 Conditioning 后，可以把它当作 Unconditioned Stimulus，从而进一步引起 Higher Order Conditioning。
+
+如果 Conditioned Stimulus 不再伴有 Unconditioned Stimulus，Conditioned Response 会 Extinction。
+
+Extinction 需要经过许多次才能完成，这期间会发生 Spontaneous Recovery。
+
 *** Unconditioned Stimulus
 *无条件刺激：* 自身具备引发某种反应的能力的刺激。
 *** Unconditioned Response
@@ -1467,3 +1473,12 @@ CLOCK: [2021-04-18 Sun 14:20]--[2021-04-18 Sun 14:49] =>  0:29
 *反应性强化：* 这种强化出现在一个无条件刺激紧随一个条件刺激出现时。
 *** Higher Order Conditioning
 *高级条件反射：* 在经典条件反射中，把一个被习得的条件刺激当作无条件刺激那样用于进一步的强化学习。
+*** Extinction
+*消退：* 由于接触强化而产生的条件反射减弱。
+*** Spontaneous Recovery
+*自动恢复：* 在经过特定刺激后已习得的反应再次重现。
+*** Stimulus Generalization
+*刺激泛化：* 对与条件刺激类似的刺激产生反应的倾向。
+*** Stimulus Discrimination
+*刺激辨别：* 对不同刺激产生不同反应的能力。
+
