@@ -1781,3 +1781,20 @@ CLOCK: [2021-04-21 Wed 16:13]--[2021-04-21 Wed 16:40] =>  0:27
 | 清晰度   | 清晰明确                     | 比较模糊                         | 较为清晰         |
 | 编码方式 | Iconic Memory, Echoic Memory | 主要依靠语音，由注意选择决定内容 | 意义             |
 
+** Short-Term Memory
+:LOGBOOK:
+CLOCK: [2021-04-21 Wed 16:48]--[2021-04-21 Wed 17:11] =>  0:23
+:END:
+- 短时记忆的容量在 7(±2) 个 Information Bits
+- 储存时间短且容易遗忘，但可以通过 Maintenance Rehearsal 来延长
+- 相对来说 Elaborative Processing 的记忆效果会更好，如 Information Chunks。
+*** Information Bits
+*信息单位：* 构成有意义的信息的单位，如数字、字母、词或短语。
+*** Information Chunks
+*信息组块：* 信息单位组合成更大的单元。
+
+组块化的过程是对信息进行再编码的过程，即对心的信息进行调整或重新组织，使其纳入长时记忆中已有的单元。
+*** Maintenance Rehearsal
+*保持性复述：* 无声地重复或在心里回想。
+*** Elaborated Processing
+*精细加工：* 通过将新的信息和已有的记忆或知识结合起来，使记忆变得更有意义的过程。
